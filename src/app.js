@@ -1,6 +1,6 @@
 console.log("Merhaba Kodlama.io")
 
-//JS typesafe değildir.
+//JS typesafe değildir...
 let dolarBugun = 9.30
 
 //console.log(dolarDun)
